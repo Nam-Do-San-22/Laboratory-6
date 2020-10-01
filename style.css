@@ -86,7 +86,7 @@ label #sign-two{
         left:-100%;
         text-align: left;
         transition:.5s;
-        z-index: 10;
+       
         padding-left: 10px;
     }
 
@@ -129,6 +129,7 @@ label #sign-two{
     text-align: justify;
     margin: 2%;
     margin-top: 20px;
+    padding: 5px;
 
 }
 .content h1{
